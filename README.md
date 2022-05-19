@@ -7,7 +7,7 @@
 ___
 **Clone the project**
 ```
-  htpp://github.com/ahmetfeyyazbalci/dark-mode-react
+  htpp://github.com/feyyazbalci/dark-mode-react
 ```
 
 
